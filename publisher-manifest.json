@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6cde3ae58034c6d028f4fd07",
+  "owner": "ravpnhu8u",
+  "repo": "page-252c08ef8602ea2b6db2da13",
+  "title": "猪的SSR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "252c08ef8602ea2b6db2da13",
+      "a": "猪的SSR",
+      "b": "机场官网线路发布页",
+      "entity": "猪的SSR",
+      "brand": "猪的SSR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1a0a7488750db1aad2edd62ac08e0ef0edc26fb44e0339d377f3d4fc034b3034",
+      "content": {
+        "primary_entity": "猪的SSR",
+        "keyword1": "猪的SSR",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，主推基础版、旗舰版与团队版三档订阅，按年付分别为 ¥150/年、¥350/年与 ¥850/年，适合个人、重度流媒体用户和小型团队按需选择。",
+          "AI_HERO_SUBTITLE": "猪的SSR 三档订阅按需选择",
+          "AI_HERO_INTRO": "猪的SSR 提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备在线需求，按客户端文档导入订阅即可使用。",
+          "AI_VISUAL_TITLE": "猪的SSR 订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按月按年灵活付费",
+          "AI_HIGHLIGHT_2": "最高支持 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_FEATURES_TITLE": "套餐配置与选择要点",
+          "AI_FEATURES_INTRO": "按流量、设备数量与线路需求匹配套餐，再结合订阅周期决定月付或年付。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，家庭或多人团队可参考团队版。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，流媒体重度用户可考虑旗舰版以上。",
+          "AI_FEATURE_TITLE_3": "订阅周期更省",
+          "AI_FEATURE_TEXT_3": "年付价格分别为 ¥150、¥350、¥850，长期使用比月付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "根据 Windows、macOS、Android、iOS 或路由器等设备，在对应客户端内导入订阅链接，具体兼容性以客户端说明为准。",
+          "AI_GUIDE_TITLE": "订阅使用三步",
+          "AI_GUIDE_INTRO": "先确认需求，再检查设备适配，最后按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据流量、设备数和预算，从基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与系统是否在对应客户端的支持范围内，避免订阅无法导入。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端内按说明导入订阅链接，完成节点选择与连接测试。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "猪的SSR 套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可在当前订阅周期结束后选择升级或降级套餐，具体变更方式请参考客户端内说明或联系支持渠道。",
+          "AI_FAQ_QUESTION_2": "订阅链接可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，超出设备数量的连接可能会被限制。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付分别为 ¥150、¥350、¥850，相比月付节省明显，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_4": "客户端导入订阅遇到问题怎么办？",
+          "AI_FAQ_ANSWER_4": "先核对订阅链接是否完整、设备系统是否为客户端支持的版本，再参考客户端文档中的导入步骤重试。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线为游戏与实时应用提供更低延迟的加速路径，适合对连接稳定性要求较高的用户。",
+          "AI_CLOSING_TITLE": "选对套餐更省心",
+          "AI_CLOSING_TEXT": "按设备数与流量需求选定猪的SSR 套餐，再按客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "y3i6xb.cn",
+    "host": "y3i6xb.cn"
+  },
+  "file_hashes": {
+    "index.html": "cc1dd963c5ffc50ff3ec7cafa67748b0ec44026892ad7fba2c274e9678f3c00d",
+    "sitemap.xml": "3ce12851969cb28f7345177462633bf76c766672d7e0aeb03609966db8a04e56",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c5dbd17bdfbf1115607aac4d35c42c1221f70aca54e00e8f892f6f21eef09371",
+    "robots.txt": "e3e17f7953aecbc10ac96f7241fdd7e81d25effa25a2a144a3b516830e6c28d1",
+    "68956abaca3a0a51494ed8e9ed42c8cc.txt": "7c595599b988cb5ff41fea38ac4869cd6639a7f118e139a72b849e809ef9558b"
+  },
+  "revision": "d610f062e9bde186d2a260a3a1998402303f84dbdd75f7dcb62c3f957c2eee00"
+}
